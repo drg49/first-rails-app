@@ -1,0 +1,1 @@
+puts Todo.create(subject: "Dentist", details: "Go to appt at 9")
